@@ -1,0 +1,5 @@
+{
+  "name": "goal-tracker",
+  "owner": { "name": "Evan Moorhouse" },
+  "plugins": [{ "name": "goal-tracker", "source": "./" }]
+}

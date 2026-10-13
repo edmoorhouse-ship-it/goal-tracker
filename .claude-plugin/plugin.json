@@ -1,0 +1,6 @@
+{
+  "name": "goal-tracker",
+  "version": "0.1.0",
+  "description": "A live goal panel: cache warmth, context, cost, usage limits, task progress bar, elapsed and remaining time",
+  "types": "./types/index.d.ts"
+}
