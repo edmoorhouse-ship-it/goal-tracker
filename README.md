@@ -5,7 +5,7 @@ A Claude Code mod: a live Goal panel with cache warmth, context, session cost, u
 ## Install
 
 ```
-/plugin install goal-tracker --marketplace edmoorhouse/goal-tracker
+/plugin install goal-tracker --marketplace edmoorhouse-ship-it/goal-tracker
 ```
 
 ## Use
